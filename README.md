@@ -1,1 +1,0 @@
-# MITRE-ATT-CK-Toolkit
